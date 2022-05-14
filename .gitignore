@@ -2,6 +2,16 @@
 \env
 \venv
 \.idea
+\clean
+\CommonVoiceCustom
+\CommonVoiceMixed
+\cv-corpus-9.0-2022-04-27
+\LibriSpeech
+\LibriSpeechCustom
+\LibriSpeechMixed
+\mix
+\noisy
+\separated
 
  *.wav
  *.mp3
