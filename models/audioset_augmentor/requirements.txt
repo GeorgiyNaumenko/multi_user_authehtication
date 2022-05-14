@@ -1,0 +1,5 @@
+fire
+pandas
+youtube-dl
+librosa
+ffmpeg_normalize

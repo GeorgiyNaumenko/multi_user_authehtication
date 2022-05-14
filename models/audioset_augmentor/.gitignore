@@ -1,0 +1,5 @@
+.idea
+*.pyc
+audioset_augmentor.egg-info
+savedir
+.data
