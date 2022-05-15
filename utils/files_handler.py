@@ -26,5 +26,6 @@ def create_folder(folder_path):
         print(f"{folder_path} already exists.")
         return True
     except Exception as e:
-        print(f"Exception: {e}. Created new folder {folder_path}")
+        print(f"Exception: {e}.\n Created new folder {folder_path}")
+        os.mkdir(folder_path)
         return False
